@@ -24,6 +24,11 @@ https://blog.csdn.net/qq_17265737/article/details/78327867
 
 //文件的目录请存在zerg目录
 
+//git下载之后，一定要登录这两个东西：
+    git config  --global user.name  "github名字"
+    git config  --global user.email "github邮箱"
+
+
 PhpStorm 上面的git集成用法
     https://blog.csdn.net/zndy10/article/details/78970596
 
