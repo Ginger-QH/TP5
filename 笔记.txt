@@ -1,0 +1,38 @@
+﻿关于B站的tp5学习
+	服务器:Zerg
+	客户端小程序:Protoss
+	CMS: Terran
+
+汉化包的位置
+      https://blog.csdn.net/pingfangx/article/details/78826150
+
+快捷键的使用:
+	ctrl+E 打开文件
+	ctrl+shift+N  全局打开文件
+	按住ctrl+shift,鼠标选中内容,然后加/,就是多行注释
+	ctrl+shift+F全局查找n
+
+
+自动生成命名空间
+在设置set哪里,搜索Directories,在application,点击源码.然后加app
+
+访问路径:
+入口文件路径/
+
+//本地上传git代码的教程
+https://blog.csdn.net/qq_17265737/article/details/78327867
+
+//文件的目录请存在zerg目录
+
+PhpStorm 上面的git集成用法
+    https://blog.csdn.net/zndy10/article/details/78970596
+
+    //上传代码:
+    1.(项目右键)Git
+    2.Git->add(相当于git add)
+    3.Commit Directory(相当于git commit)
+    4.Git->Repository->Pull(相当于git pull)
+         拉取版本库的代码
+    或者用下面
+    5.Git->Repository->Push(相当于git push)
+        推送版本库的代码
