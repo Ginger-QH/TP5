@@ -30,7 +30,7 @@ PhpStorm 上面的git集成用法
     //上传代码:
     1.(项目右键)Git
     2.Git->add(相当于git add)
-    3.Commit Directory(相当于git commit)
+    3.Git->Commit Directory(相当于git commit)
     4.Git->Repository->Pull(相当于git pull)
          拉取版本库的代码
     或者用下面
